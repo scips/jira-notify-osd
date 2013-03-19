@@ -1,0 +1,28 @@
+{
+  "name": "jira-notify-osd",
+  "version": "0.0.0",
+  "description": "Tell the user when something related to him change in Jira",
+  "main": "index.js",
+  "dependencies": {
+    "jira": "~0.4.0",
+    "notify-send": "~0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scips/jira-notify-osd.git"
+  },
+  "keywords": [
+    "notify",
+    "notifyosd",
+    "jira",
+    "growl"
+  ],
+  "author": "Sébastien Barbieri",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "1ddf0e7001739d8586d7e6e13efc73893e92da72"
+}
